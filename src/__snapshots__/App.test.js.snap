@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the app should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header>
+      <h1
+        class="headerStyle"
+        data-testid="header-tag"
+      >
+        Hello World
+      </h1>
+    </header>
+    <div>
+      <h1
+        data-testid="count"
+      >
+        0
+      </h1>
+      <button
+        data-testid="increase"
+      >
+        Increase
+      </button>
+      <button
+        data-testid="decrease"
+      >
+        Decrease
+      </button>
+    </div>
+    <span
+      data-testid="loading"
+    >
+      Loading data ...
+    </span>
+  </div>
+</DocumentFragment>
+`;

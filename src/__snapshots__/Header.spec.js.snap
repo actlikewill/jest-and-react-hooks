@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the header 1`] = `
+<DocumentFragment>
+  <header>
+    <h1
+      class="headerStyle"
+      data-testid="header-tag"
+    >
+      Hello
+    </h1>
+  </header>
+</DocumentFragment>
+`;
